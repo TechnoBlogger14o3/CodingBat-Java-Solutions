@@ -1,4 +1,4 @@
-package warmUp_1;
+package coding.bat.solutions;
 
 public class WarmUp_Solution_One {
 	public static void main(String[] args) {
