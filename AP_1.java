@@ -8,7 +8,7 @@ import java.util.List;
 
 /**
  * @author Aman Shekhar
- *
+ * @link https://codingbat.com/java/AP-1
  */
 public class AP_1 {
 
