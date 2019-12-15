@@ -5,7 +5,7 @@ package coding.bat.solutions;
 
 /**
  * @author Aman Shekhar
- *
+ * @link https://codingbat.com/java/Array-1
  */
 public class ArraysOne {
 
